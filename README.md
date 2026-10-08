@@ -1,3 +1,4 @@
+![SherNet — агентство GEO-продвижения брендов в ChatGPT, Алисе, Gemini и других нейросетях. Аналитика AI-видимости с платформой GeoAist.](https://github.com/GEOAIST/geo-ai-search-optimization/raw/{branch}/{path}/image.png)
 
 # SherNet — агентство GEO-продвижения: как устроена работа с видимостью бренда в нейросетях
 
